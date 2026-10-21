@@ -31,9 +31,11 @@ I'd love to hear your thoughts! If you have suggestions or find any bugs:
 ### Claude Code Plugin (Recommended)
 
 ```
-/plugin marketplace add irfanfaraaz/taste-skill-plugin
-/plugin install taste-skill
+/plugin marketplace add siddu1004/taste-skill-for-claude-and-antigravity
+/plugin install taste-skill@taste-skill-marketplace
 ```
+
+On Claude Code 2.1.275 or later this is one step: `/plugin install taste-skill --marketplace siddu1004/taste-skill-for-claude-and-antigravity`.
 
 ### Agent Skills CLI
 
